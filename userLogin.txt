@@ -1,0 +1,5 @@
+Email: "joaobranco@uc.pt"
+Password: "joao01"
+
+Email: "admin@gmail.com"
+Password: "admin"
